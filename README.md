@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey, I'm Aden!
+
+I'm a first-year undergraduate student at the UChicago, studying Economics and Mathematics.
+
+[![Aden's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdenChen27)](https://github.com/AdenChen27/github-readme-stats)
 
 <!--
 **AdenChen27/AdenChen27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
