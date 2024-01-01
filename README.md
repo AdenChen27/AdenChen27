@@ -2,7 +2,9 @@
 
 I'm a first-year undergraduate student at the UChicago, studying Economics and Mathematics.
 
-[![Aden's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdenChen27)](https://github.com/AdenChen27/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdenChen27&theme=transparent&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdenChen27&size_weight=0.5&count_weight=0.5&layout=donut&theme=transparent)
+
 
 <!--
 **AdenChen27/AdenChen27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
