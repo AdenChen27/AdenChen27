@@ -11,7 +11,9 @@ I'm a first-year undergraduate student at the UChicago, studying Economics and M
 
 <!-- WakaTime 
 
-<img src="https://wakatime.com/share/@018cc2e1-92b1-44b7-9e12-3aacffbeb459/ea682c10-91d6-44c4-8be6-1ee3b6f27997.svg" width="500">
+https://github-readme-stats.vercel.app/api/wakatime?username=adenchen27
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=adenchen27" width="500">
 
 -->
 
