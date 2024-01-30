@@ -9,16 +9,11 @@ I'm a first-year undergraduate student at the UChicago, studying Economics and M
 
 
 
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=adenchen27&theme=transparent" width="500">
-
-
 <!-- WakaTime 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=adenchen27&theme=transparent" width="500">
 
 https://github-readme-stats.vercel.app/api/wakatime?username=adenchen27
 <img src="https://wakatime.com/share/@018cc2e1-92b1-44b7-9e12-3aacffbeb459/2fa70094-3d22-4820-870a-702cd05cf9f7.svg" width="500">
-
-
 -->
 
 <!--
