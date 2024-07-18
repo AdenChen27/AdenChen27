@@ -1,6 +1,6 @@
 ### Hey, I'm Aden!
 
-I'm a first-year undergraduate student at the UChicago, studying Economics and Mathematics. 
+I'm a second-year undergraduate student at the UChicago studying Mathematics and Economics. 
 
 [Here](https://adenchen27.github.io/) are some of my more interesting projects.
 
