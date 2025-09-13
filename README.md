@@ -1,10 +1,9 @@
 ### Hey, I'm Aden!
 
-I'm a second-year undergraduate student at the UChicago studying Mathematics and Economics. 
-
-[Here](https://adenchen27.github.io/) are some of my more interesting projects.
+I'm a third-year undergraduate student at the UChicago studying Mathematics and Economics. 
 
 <!--
+[Here](https://adenchen27.github.io/) are some of my more interesting projects.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdenChen27&theme=transparent&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdenChen27&size_weight=0.5&count_weight=0.5&layout=donut&theme=transparent)
 -->
